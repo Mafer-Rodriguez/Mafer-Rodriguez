@@ -32,7 +32,7 @@ Estoy en búsqueda de oportunidades para realizar mis Estadías Profesionales y 
 
 ---
 
-### Tech Stack
+### Technologies Covered in Class
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
