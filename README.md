@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/mafer-rodriguez-macias">
+  <a href="https://www.linkedin.com/in/mafer-rodriguez-macias/">
     <img src="https://img.shields.io/badge/LinkedIn-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
